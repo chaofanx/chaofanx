@@ -7,6 +7,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaofanx&theme=dark&layout=compact)
 
-## 最近文章
+### 最近文章
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
