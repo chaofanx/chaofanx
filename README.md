@@ -7,6 +7,10 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaofanx&theme=dark&layout=compact)
 
+### 常用语言
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 最近文章
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
