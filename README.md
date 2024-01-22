@@ -17,9 +17,9 @@ Markdown               54 mins         #------------------------   05.02 %
 
 ### 近期文章
 <!-- BLOG-POST-LIST:START -->
+- [alertmanager通知时机](https://chaofan.xyz/posts/4a58f7b9.html)
 - [使用Prometheus监控应用指标](https://chaofan.xyz/posts/49b1cc7e.html)
 - [云原生可观测性之OpenTelemetry](https://chaofan.xyz/posts/29a4bd97.html)
 - [使用systemd管理服务](https://chaofan.xyz/posts/c670b61f.html)
 - [zsh-终极shell](https://chaofan.xyz/posts/fb612641.html)
-- [记录一次Archlinux安装过程](https://chaofan.xyz/posts/e73ac284.html)
 <!-- BLOG-POST-LIST:END -->
