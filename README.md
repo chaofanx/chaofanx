@@ -9,9 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                   5 hrs 54 mins   #######------------------   27.19 %
-Kotlin                 5 hrs 9 mins    ######-------------------   23.71 %
-Markdown               1 hr 21 mins    ##-----------------------   06.23 %
+Java                   8 hrs 36 mins   ########-----------------   33.12 %
+Kotlin                 5 hrs 58 mins   ######-------------------   23.02 %
+Markdown               1 hr 21 mins    #------------------------   05.24 %
 ```
 
 <!--END_SECTION:waka-->
