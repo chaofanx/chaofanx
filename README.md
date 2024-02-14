@@ -9,10 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             55 mins         #######################--   91.98 %
-Text               2 mins          #------------------------   04.65 %
-Java               0 secs          -------------------------   00.49 %
-Requirements.txt   0 secs          -------------------------   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
