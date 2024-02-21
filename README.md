@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             1 hr 47 mins    #######################--   91.43 %
+SQL              4 mins          #------------------------   04.11 %
+GitIgnore file   3 mins          #------------------------   02.59 %
+Jupyter          0 secs          -------------------------   00.82 %
+Properties       0 secs          -------------------------   00.58 %
 ```
 
 <!--END_SECTION:waka-->
