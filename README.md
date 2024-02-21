@@ -5,7 +5,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chaofanx&show_icons=true&theme=dark&count_private=true)
 
-### 常用语言
+### Language
 <!--START_SECTION:waka-->
 
 ```txt
@@ -18,7 +18,7 @@ Properties       0 secs          -------------------------   00.58 %
 
 <!--END_SECTION:waka-->
 
-### 近期文章
+### Recent articles
 <!-- BLOG-POST-LIST:START -->
 - [alertmanager通知时机](https://chaofan.xyz/posts/4a58f7b9.html)
 - [使用Prometheus监控应用指标](https://chaofan.xyz/posts/49b1cc7e.html)
