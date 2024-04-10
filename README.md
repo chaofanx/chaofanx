@@ -9,11 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         16 mins         ###############----------   58.08 %
-C              11 mins         ##########---------------   40.50 %
-TOML           0 secs          -------------------------   01.16 %
-Markdown       0 secs          -------------------------   00.17 %
-Shell Script   0 secs          -------------------------   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
