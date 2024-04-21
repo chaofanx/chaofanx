@@ -9,11 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            14 mins         #############------------   50.23 %
-Java Properties   5 mins          #####--------------------   19.40 %
-Properties        3 mins          ###----------------------   11.37 %
-JavaScript        2 mins          ##-----------------------   08.62 %
-YAML              2 mins          ##-----------------------   07.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
