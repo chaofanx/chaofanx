@@ -25,3 +25,7 @@ Kotlin       1 min           -------------------------   00.07 %
 - [云原生可观测性之OpenTelemetry](https://chaofan.xyz/posts/29a4bd97.html)
 - [使用systemd管理服务](https://chaofan.xyz/posts/c670b61f.html)
 <!-- BLOG-POST-LIST:END -->
+
+### Steam recent playtime leaderboard
+ <!-- steam-box-recent start -->
+ <!-- steam-box-recent end -->
