@@ -9,11 +9,9 @@
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ### Language (last week)
 <!--START_SECTION:waka-->
