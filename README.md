@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Groovy              3 mins          #####--------------------   21.97 %
-Java                2 mins          ####---------------------   16.73 %
-Gradle Kotlin DSL   2 mins          ####---------------------   15.93 %
-Java Properties     2 mins          ####---------------------   15.04 %
-HTML                1 min           ###----------------------   10.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
