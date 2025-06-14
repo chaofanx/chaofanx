@@ -17,7 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java         35 mins         ##################-------   70.50 %
+Properties   13 mins         #######------------------   27.00 %
+textmate     1 min           #------------------------   02.50 %
 ```
 
 <!--END_SECTION:waka-->
