@@ -17,10 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              4 hrs 39 mins   ######################---   89.16 %
-Properties        17 mins         #------------------------   05.42 %
-Java Properties   3 mins          -------------------------   01.00 %
-textmate          1 min           -------------------------   00.40 %
+Java              9 hrs 22 mins   ########################-   94.15 %
+Properties        17 mins         #------------------------   02.84 %
+Java Properties   3 mins          -------------------------   00.52 %
+textmate          1 min           -------------------------   00.21 %
 ```
 
 <!--END_SECTION:waka-->
