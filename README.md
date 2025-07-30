@@ -17,9 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java         18 hrs 59 mins  #################--------   69.30 %
-TypeScript   2 hrs 3 mins    ##-----------------------   07.49 %
-Other        59 mins         #------------------------   03.59 %
+Java             17 hrs 4 mins   #################--------   67.19 %
+TypeScript       2 hrs 4 mins    ##-----------------------   08.16 %
+Markdown         24 mins         -------------------------   01.58 %
 ```
 
 <!--END_SECTION:waka-->
