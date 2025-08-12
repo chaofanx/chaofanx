@@ -17,9 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              17 hrs 15 mins  ###################------   75.05 %
+Java              16 hrs 38 mins  ##################-------   72.34 %
 TypeScript        1 hr 1 min      #------------------------   04.49 %
-TSConfig          6 mins          -------------------------   00.46 %
+Kotlin            12 mins         -------------------------   00.91 %
 ```
 
 <!--END_SECTION:waka-->
