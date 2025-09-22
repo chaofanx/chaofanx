@@ -27,11 +27,11 @@ Markdown          2 mins          -------------------------   00.28 %
 
 ### Recent articles
 <!-- BLOG-POST-LIST:START -->
-- [CountDownLatch和CyclicBarrier的区别](https://chaofan.xyz/posts/6f3f7f34.html)
-- [alertmanager通知时机](https://chaofan.xyz/posts/4a58f7b9.html)
-- [使用Prometheus监控应用指标](https://chaofan.xyz/posts/49b1cc7e.html)
-- [云原生可观测性之OpenTelemetry](https://chaofan.xyz/posts/29a4bd97.html)
-- [使用systemd管理服务](https://chaofan.xyz/posts/c670b61f.html)
+- [CountDownLatch和CyclicBarrier的区别](https://chaofan.xyz/posts/6f3f7f34/)
+- [alertmanager通知时机](https://chaofan.xyz/posts/4a58f7b9/)
+- [使用Prometheus监控应用指标](https://chaofan.xyz/posts/49b1cc7e/)
+- [云原生可观测性之OpenTelemetry](https://chaofan.xyz/posts/29a4bd97/)
+- [使用systemd管理服务](https://chaofan.xyz/posts/c670b61f/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Steam recent playtime leaderboard
