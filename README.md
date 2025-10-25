@@ -17,9 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             22 hrs 19 mins  #######################--   92.29 %
-Text             1 hr 35 mins    ##-----------------------   06.58 %
-Shell Script     0 secs          -------------------------   00.00 %
+Java              19 hrs 42 mins  #######################--   90.78 %
+Text              1 hr 33 mins    ##-----------------------   07.21 %
+Java Properties   7 mins          -------------------------   00.56 %
+GitIgnore file    0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
