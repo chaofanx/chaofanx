@@ -17,7 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java   2 mins                #########################   100.00 %
+Java     1 hr 27 mins          #################--------   66.51 %
+Python   23 mins               ####---------------------   17.99 %
 ```
 
 <!--END_SECTION:waka-->
