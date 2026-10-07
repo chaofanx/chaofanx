@@ -17,11 +17,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 54 mins          #############------------   50.36 %
-Markdown          37 mins               ####---------------------   16.65 %
-Python            31 mins               ###----------------------   13.99 %
-Java Properties   20 mins               ##-----------------------   09.03 %
-textmate          10 mins               #------------------------   04.41 %
+Java              7 mins                #################--------   68.57 %
+Java Properties   3 mins                ########-----------------   31.43 %
 ```
 
 <!--END_SECTION:waka-->
