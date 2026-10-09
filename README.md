@@ -17,7 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown         38 mins               ##########---------------   39.45 %
+Rust             36 mins               ##########---------------   38.06 %
+Java             12 mins               ###----------------------   13.20 %
+Diff             1 min                 -------------------------   01.43 %
 ```
 
 <!--END_SECTION:waka-->
