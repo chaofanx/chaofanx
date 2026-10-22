@@ -17,10 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              8 hrs 50 mins         ##############-----------   57.78 %
-Rust              1 hr 38 mins          ###----------------------   10.73 %
-Java Properties   39 mins               #------------------------   04.30 %
-Properties        34 mins               #------------------------   03.72 %
+Java              8 hrs 1 min           #############------------   53.91 %
+Rust              1 hr 38 mins          ###----------------------   11.04 %
+Baiji Spec        48 mins               #------------------------   05.41 %
+Java Properties   39 mins               #------------------------   04.42 %
 ```
 
 <!--END_SECTION:waka-->
