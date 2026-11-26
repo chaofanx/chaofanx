@@ -9,11 +9,12 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          IGNORED_LANGUAGES: FTL Binary YAML JSON TOML Gradle XML
-          BLOCKS: -#
+          SYMBOL_VERSION: 2
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
